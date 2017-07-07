@@ -10,5 +10,5 @@ pyvenv.cfg
 pip-selfcheck.json
 client.json
 ngrok
-
-sheets.pyc
+*.pyc
+plan
