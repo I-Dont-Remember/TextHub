@@ -2,9 +2,20 @@
 import gspread
 import logging
 from oauth2client.service_account import ServiceAccountCredentials
-import server
+#import server
+#import main
 import config
 import datetime
+
+class SMS(object):
+    from_num = ""
+    to_num = ""
+    text = ""
+
+    def __init__(self, from_num, to_num, text):
+        self.from_num = from_num
+        self.to_num = to_num
+        self.text = text
 
 log = logging.getLogger('log')
 logging.basicConfig(level=logging.DEBUG)
