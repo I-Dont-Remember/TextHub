@@ -12,3 +12,5 @@ client.json
 ngrok
 *.pyc
 plan
+sms.ini
+config.py
