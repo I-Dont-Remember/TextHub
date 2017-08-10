@@ -1,20 +1,21 @@
 # sms2sheets
 
-**Structure**
-sms2sheets/
-  app\
-    client.json
-    config.py
-    main.py
-    sheets.py
+**Structure**  
+```text
+sms2sheets/  
+  app\  
+    client.json  
+    config.py  
+    main.py  
+    sheets.py    
 
-  .gitignore
-  Dockerfile
-  requirements.txt
-  README 
-  venv\
-    <virtual environment files>
-
+  .gitignore  
+  Dockerfile  
+  requirements.txt  
+  README   
+  venv\  
+    <virtual environment files>  
+```
 *Testing with Plivo, it remains to be seen whether it is the service to 
 continue with.*
 --Switched to Twilio
