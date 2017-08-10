@@ -2,8 +2,6 @@
 import gspread
 import logging
 from oauth2client.service_account import ServiceAccountCredentials
-#import server
-#import main
 import config
 import datetime
 
@@ -18,7 +16,7 @@ class SMS(object):
         self.text = text
 
 log = logging.getLogger('log')
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(filename='sheets.log', level=logging.DEBUG)
 # # When changing sheets, need to make sure to go and share this client.json email with the sheet you want to work on
 
 def get_sheet(sheet_name):
@@ -57,6 +55,7 @@ def input_message(sms, marker, sheet):
 
 ######### Main ###############################
 
+# Change the return value here to indicate what http response to send
 def handle_sms(sms):
     sheet = get_sheet(config.sheet_name)
     if ( sheet != None):

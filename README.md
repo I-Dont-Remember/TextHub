@@ -1,9 +1,23 @@
 # sms2sheets
 
-requires gspread, oauth2client, plivo, flask
+**Structure**
+sms2sheets/
+  app\
+    client.json
+    config.py
+    main.py
+    sheets.py
+
+  .gitignore
+  Dockerfile
+  requirements.txt
+  README 
+  venv\
+    <virtual environment files>
 
 *Testing with Plivo, it remains to be seen whether it is the service to 
 continue with.*
+--Switched to Twilio
 
 * July 8th: Workable state held together with duct tape and hope. Correct
 functionality with basic flask server running on an EC2 instance and tunneled
