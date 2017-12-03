@@ -1,6 +1,6 @@
 #! /usr/bin/env  python
 import sheets
-from flask import Flask,request
+from flask import Flask,request,render_template
 import ConfigParser
 import config
 import logging
@@ -17,6 +17,11 @@ app = Flask(__name__)
 def hello():
     return "Is this an Easter egg?"
 
+@app.route('/Information')
+def information_page():
+    return render_template('Information.html',
+                            url=config.URL)
+
 # Find way to run multiple people on one phone number
 @app.route("/sms", methods=['GET', 'POST'])
 def message():
@@ -30,11 +35,14 @@ def message():
     return 'Message received', 200
 
 @app.route("/")
-def main():
-    return "Uh-oh, I don't think you're supposed to be here."
+def index():
+    total = '5'#'$' + sheets.get_total()
+    return render_template('index.html',
+                            sheetname = config.sheet_name,
+                            total=total)
 
 if __name__ == "__main__":
-     app.run(host='0.0.0.0', debug=False, port=80)
+     app.run(host='127.0.0.1', debug=True, port=5000)
 #    cp = ConfigParser.SafeConfigParser()
 #    cp.read('sms.ini')
 #    section = 'INFO'

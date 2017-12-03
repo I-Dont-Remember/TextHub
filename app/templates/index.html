@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class='jumbotron text-center'>
+      <h1>{{ sheetname }} {{ total }} </h1>
+          <div class='form-group'>
+            <label for='sell'>Select Sheet:</label>
+            <select class='form-control' id='sell'>
+              <option>Please select one..</option>
+              <option>{{ sheetname }}</option>
+            </select>
+          </div>
+    </div>
+    <div id='mainChart' class='container-fluid' style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+    <div id='shell' class='container-fluid'>
+      <div id='categoryChart' class='col-md-4' style='min-width: 200px; height: 300px;'></div>
+      <div id='spacer_text' class='col-md-4'>Information about this</div>
+      <div id='pieChart' class='col-md-4' style='min-width: 200px; height: 300px;'></div>
+    </div>
+
+    <h2 class='sub-header'>Last few entries</h2>
+    <div class='table-responsive'>
+      <table class='table table-striped'>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Amount</th>
+            <th>Percentage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+          <tr>
+            <th>10/5</th>
+            <th>$100</th>
+            <th>12%</th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+{% endblock %}

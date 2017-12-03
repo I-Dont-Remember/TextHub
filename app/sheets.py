@@ -5,6 +5,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 import config
 import datetime
 
+# Depending on how this shapes up, a class for each person and their
+#    number might be nice -- or dictionary
+
 class SMS(object):
     from_num = ""
     to_num = ""
@@ -18,6 +21,13 @@ class SMS(object):
 log = logging.getLogger('log')
 logging.basicConfig(filename='sheets.log', level=logging.DEBUG)
 # # When changing sheets, need to make sure to go and share this client.json email with the sheet you want to work on
+def get_total():
+    sheet = get_sheet(config.sheet_name)
+    try:
+        val = sheet.acell('E11').value
+    except GSpreadException:
+        return -1
+    return val
 
 def get_sheet(sheet_name):
     scope = ['https://spreadsheets.google.com/feeds']

@@ -1,0 +1,427 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:33:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:32] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:33] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:37:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:40:54] "GET / HTTP/1.1" 200 -
+DEBUG:logger:Message received - From: None, To: None, Text: None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:00] "GET /sms HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:00] "GET /sms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:00] "GET /sms?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:00] "GET /sms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:01] "GET /sms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:41:01] "GET /sms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/config.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:07] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:08] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:45:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MTEyOCwiaWF0IjoxNTAyMzM3NTI4fQ', 'Eqe4llwFwnsMgxXKAeHnAvHdMNQ_BiXgwTmL209ANX_jiXVb31DEjlry2toV8biTY_ZloHU6XXT2DsVTlHun4tz5d__9JHnHaCeb5Z8Ik9lolwHPRTpDJ2nkNu0SVhkqTVutq3ZfYF3W4LL_zI52FPummKPDgM_wZZ2dv0vxX8SVT-rcuRAQETXgMjazrz_oUy3xyZ_jVRKuEhOzmoFRbgBOEPM0TQXg8q3wfje9jy9Akb3MMVo8ggEdI7nGWTI3lPC5j1rlCDzXneawoy76IvA1mkZqy6_QFXj5HqDaquw7xOhFHbXtMtCg5lrG-21RdRCgAx7loeE88xiVDW6gsg']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 22:58:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MTQzNCwiaWF0IjoxNTAyMzM3ODM0fQ', 'AMByZC4weBQjwnC1DUHtA2RETDurn33GDSdOrp0BQLoqkxkhuoFF4gfrxZwY12yt-_zjD5JddmgTNE_7tuWqmYWS4UQTNNa__SsqmNHnsIsXyC9a32NoYZtoV2L9xFYYNq3QfeAdul9D2YZVtUjkJ4oLT0Pg_VnMDo_DLoNYEHo4vlRFpblOpdkG78mYvjb9m2okx_St7Cl-_fkIMsRLs8TQ9vg_smWsveu9oTUNDhF_aYx2FXWDxCA2cVAqq8-eOIdb9dxqQwVpjrwR3DrhunGcEAmX1M6lgXbcK26eerfYV8wLzCI7hEsvwV7EZbflfrK8Jddx6ZZj7TvPvYwAJw']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:03:56] "GET / HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MTQ1MywiaWF0IjoxNTAyMzM3ODUzfQ', 'NBwk-rzZUY8ZtU4ORGafejgCuzZtuz4ihg9lp_zLQeP6zXAiFGxh4RembfCPfnPJj_48XueFw9aovC9Ryo7bv3OF2SE0jeMseQSkEb9dWeVp7DKetQO4gyIGNeftJOREK680J-USPOR35oKF2glIZ74aoORsWV3_zEuUMkDNw0TyZiwVypH4YxMi5aD0wUf7K1dp3D-QarHpTKqHB_MXjb0OyAkVngfOf7gMTLR_Fa_bXbFQol6dspxYBKATpqg1Dh7_mtYDMDrWHNDsEJqg_P8q6DOKcnIZ8nR-G09fy4SIy4PkAR0XKa7Cq8z7F8c3Zbov8xOYqB5ylWWFa_ZMuA']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:04:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:09:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:09:39] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:09:39] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MTkwNCwiaWF0IjoxNTAyMzM4MzA0fQ', 'p86vU8dORRT99pFbEWyPcC3h0bhHUKzq0pX5eCDYdnqhIzrHQTsac4BtXVxMuL7Z4jMYcxGXobB1Zk-EHDbDGfq4P1O9RwaFxx9V9Z0oJW6gzbF3O521TFm6zw_cdDxGiqoIU9G4OVyzUPIWkPJA6Ptb9c0q7vlq8PwamkJuGl9p42XrQr7hQF7z7aNuHfdbm4gygu5w4J2hV5IF61WOBmKneTr1sZJgkwhm4-LsEUEjtqW4B0SoDOG5fhy0SuultjvsKkp4_7gHc6RWyrl9tRx9chTFiUolscu8JVPuzkUEJXcrMMV2usbTqr3AdZvEYU1NnnsN6cdgSyY0lGDEDA']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:11:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:11:45] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:11:45] "GET /static/main.js HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjE1NSwiaWF0IjoxNTAyMzM4NTU1fQ', 'Og7ZD3n0JTb07yzulb8MIRPoo3KgV3xr4KXyQPWqBMicNBBv1w67CWkAZZIGgTRMG0vURVmFrMbsmh0dOkOBQala6VixQuhOQgGvjTTEEstGhzA6i8uiFjV2YP41X8dTGKdbfcL7nxmaiJ2JtMl7Me2uJySox9hhI-7xF73nSMThcicLvw9jwK1fsVP0lv_8UbnrjPGxoJ7Z2L0laQkSiWDcoIAaESL39s0nFXo1yiLDoqfYXQ4jD5J6E_Z6msVZUyjRTTKWC3Oj8H_aMBiCpLYtIAkWTN2s8gQ7tXRDf-gZ61i0i607pZ4DYha7Eh3l4lu_PBegvRjlhHZW8l6LKA']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:56] "GET / HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjE1NiwiaWF0IjoxNTAyMzM4NTU2fQ', 'EeX5ysx-2UX5iyh0qLFqnqU9yhMtRexfXmyHp86jZR8k5IXxqsBGHOriwOJuNmdksrbwPKTXJLrEkZ3ICU9rCh8A8Axi_dEOaErfuiejZysa8FO5GVx-8jKSGGxqsbla4DfPtlE-yeB_gIcvlK_xsX8rxdsk4ldgAwDLQ4690zFnUGlwNn6OYCAVE8LV_bBrU3OzLh9iFJXT6eqkVg0VaIJyskLFqMoTsBu6Pi4t3CUe77Aw43Nm03XQdaK8XWvOa6mQBLgHbK68ZACbfIS4D3lzuEzySeFxpIv8ROS6HCCrT2QL3KFF7ohYCFB3oIGlbLWyKfdZAr0EoT2or17IsQ']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:57] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:57] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:58] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:15:58] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjIxMiwiaWF0IjoxNTAyMzM4NjEyfQ', 'QMqYCbtWMrRNIxt3c_p6btoVh7Js_4srs1PtONzDYU4esREmRcivIEdNe8smN71ZxayCmIkU6Y9OgugG4V8FkGuZ5v066PCFYEPZzRuq8_GTyrvHBvKyuhgIN06GQRCK8QqnsTcCP5zITnouDxu16PwlfAMj4ekuDRpIRcuo-882IPWN2gJseDc-qmRzGPse71vi9COQmsRiYIZUHRT6oTY7e5g-fuu-iB-pE7D0wjTUy-fyprduDzB_7fPuicqNlnCMVdiNz-7TgdgvquJydEf_yIoP0Tb6NJUtRFgrRrKxRbc5paBcV76aDt5uP0oh9T9urMPyONFEImHh3O66Kg']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:53] "GET / HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjIxMywiaWF0IjoxNTAyMzM4NjEzfQ', 'aOn1jd8W3J_d_WGutF-d5lgUnE-2Cef8l6bat9EHAQZxx3wP4VhIdaynlP_PIUBQwGHNYA86qNhYHRjh_AlgA3Aoa5FoPT5wrEdeZekiu7JlDSHm5G1GcWc3-rHn4YzfDyWITOl0WsPBy8v7dVR2bDg-KX4gHdleyTvxkcRoFXPeZdUm8-6IR4ajGkl71xvQ7E1TtDtzUZF18cIy2qzS-bwM_FZiRLUSB7cziudoI0BIoMYlNx98xv49Jl_LAFXWDEjBm9NqTQDGWJmqiDv2tG21p_Yj9Dt6WfeREterokBBPEy4oGFja-lgzwHwyRKg8ocgmHM4aeewMca_9w8iFA']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:54] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:54] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:54] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:54] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:56] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:16:56] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjI4MiwiaWF0IjoxNTAyMzM4NjgyfQ', 'd4ODskGoc1H9iijOwAr29Q8gY-_LHuisuQy4Du-ZW-tiaNSN9YX8i3HwAsQAS_LNoZpaGkZL3s5eglNsfn-elXzTKVG2PcicezDYzC2gzTQGKGsAlQ2vCkSryYZbynjsTUWyGxYlx55MnT3XQgDI4LAlwz4RmrbZEWnnUen_BBRO6QP7QTaRbEGMn1F4K2Sml7eIIRb4-1H5997Zo5zEqbXDkhgywP4AYa_MU9AJhoycYEFdkjcO6uwAOY2VCxcSVVBW4-38PefSMsV_AY3ssGyQF1a98UBepQoOOAzAvtd5Jkr8ls0v7x_e3tE6xptQpDWF5wiNW3Sr_vkiGV1MxQ']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:03] "GET / HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MjI4MywiaWF0IjoxNTAyMzM4NjgzfQ', 'M8Wj5nzFBxSGvlY090rZVF6x4BIaTl55zIv3D7xZJwwQzt3xYz6AlItIOQXNBAWG8mNqRapOrP9lTszhrMUGy7eyxNsvwmjK2x4QBaO_MA5-2AB4Uu__KpvNiJayBWVTC9zfUvLuyjV7BheLq_Po0CNMzF-9WyBB99l8e1o72RsjPGhlZA_KNNVb66ZsEe6bUOP9igJmJnircpuEDLX7evxhVz-yl1CaNJ5H74y0YgU_KXYwfCqUc2rcGE_RwnEiWI4E2nTso1LgDHgUHo_OEszdmgScqfa9VrLrxv0adc8kPr4uugy5pfXi4-f7TgxiAn5Xx1zuoX9l3vJBpMjt4Q']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:04] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:04] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:04] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:04] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:06] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:18:06] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MzMyMiwiaWF0IjoxNTAyMzM5NzIyfQ', 'Lo7Bkv_BwMDPibEhEFQ4QvMgu50ZtYkb-6K8geflut7YjKKKleGvi85K5bX0eHgG8gVnilSqyf1-q6G0NYBSdEnCkVimnRqpDOFkNJbwU8nl7eOs4bmRdHbeyARlZGZUgCU6YqwELm6Q_BguAxwYH1bYH4GVnVMstF8rmZ8HZ1Nb3uiKc1ztKgfA3yud7-vfP401wemJ982u5X_uBdxd_BYUx84AGmU3tI2r9VyIa_292C8A4rKR8ls-lu8svW6njAuGD-KRWjCD2ppXuKEqMpxivFxgAPw0rWL3wL8quq9wphycA2K1HJ5w0ot7pYpDI_KHBtz-jpWt8gWUxG2HEQ']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:35:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:35:23] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:35:23] "GET /static/main.js HTTP/1.1" 200 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0MzczNywiaWF0IjoxNTAyMzQwMTM3fQ', 'KbFBAl2IhCIpcdDVB71fiTlkkduzPvNjBgPLWENqDPl-pfAkC7j_YhZtnvbD-cBu9_k_2tV4RGq439WHxuNoZ2khgSE6yr43o5WHgkMvcj3Inh63qmlYiTE3KkDBdIGNCNf4d-IC4O-_xEFOKxQq_ABpIwiJbyTNZFpUx5jGOmAfZzBCymR0NjyO4W3eWdYZjGpfmXegVlwylCMPq7b7-5HRhQN5xhVFgberwTf5HbbOWkL0bUayl9BpSxW0YyGoPNebndd62Za75tKtfUH98My4iM0nghnV3x9K4zCPvPHogioS-WW4i8xQikClyD32EF-T2rm3akUBQY6fiH0mfQ']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:42:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:42:20] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:42:20] "GET /static/main.js HTTP/1.1" 304 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0Mzg4MywiaWF0IjoxNTAyMzQwMjgzfQ', 'QhqjLZ0g_35r28bwbYOPkBDsI2krUTwi1lT4DR87XsAu8AIcgYC8TdERafDErbMk4B5kxJUW4q77wYZ1KhUrF7y3KNhdFfw94tY9o2oxgq0-_C984IWPKJFMHCy2GLR1iHU4UzEb3BKZkhSw7lesYPjxHXQeE3DanElUiaxlmVwHPoBOum_OhDsNenkLjo8FE24i18DnEBRM3tpJB_F0ju4ILgooYGQS4q9yHz61Vfiy3paHIMtWcqvFUArf7icj4k9flWfxNofNfvCK7TbWjxjtn4g0w7qA1xFh95NjA3ASKjvF8YrAsRB6JrnKFiXrII1Ca09vEDXoAatSvv8E0w']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:44:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:44:44] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:44:44] "GET /static/main.js HTTP/1.1" 304 -
+DEBUG:oauth2client.crypt:['eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImUxNGM5NDhkMjQ4OTI4NDIzYjliOWEwMjM1NTI1ZTE1ZmUyNDYwNDcifQ', 'eyJpc3MiOiJ0ZXh0aHVic2VydmljZUB0ZXh0aHViLTE3MjIwMC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyIsImF1ZCI6Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9vL29hdXRoMi90b2tlbiIsImV4cCI6MTUwMjM0NDI2OSwiaWF0IjoxNTAyMzQwNjY5fQ', 'ZfGzu5YR7NI_LSOoCeam11rDgk2JZWaycyFbStJm4Z0t8Fa-9draG-WUH0DZfq_7yiPO78xayAV7i5dryYzuJOGS5tLKzUWrM3cj_k7g3XOtjItqEwDyR5dQeTerO75V-hDzdsXaqHZWPEQ0POFHX3OiOHxhL2Un5nTw8iMEWC2yFTDYzJGLazua35IomRI3PVPaUHpxz9dVKYkxmgsRyGGFNPWsZodf-bYfKC2oQsWfU96cVXSlX6AEsAhjgR7vBvKg3xpS_DfnACgYPd7rInq99OMvyZmbPasmKoYm5UnGsrWvvCxVO_x2Ia0ck-rl6nQakzztocantSsRXp9pxQ']
+INFO:oauth2client.client:Refreshing access_token
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): spreadsheets.google.com
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/spreadsheets/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/worksheets/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/private/full HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://spreadsheets.google.com:443 "GET /feeds/cells/168J7ziXVnDjSwRMx19TjHrcKwgTm4A3Bi4Pb-uz4hEE/od6/private/full/R11C5 HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:51:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:51:10] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:51:10] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:52:45] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:52:45] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:53:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:53:19] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:53:19] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:39] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Aug/2017 23:54:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 00:10:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 00:10:22] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 00:10:22] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:40:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:40:33] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:40:33] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:40:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:41:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:41:01] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:41:01] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:09] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:09] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:45] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:43:45] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:45:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:45:54] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:45:54] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:46:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:46:39] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:46:39] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:47:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:47:59] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:47:59] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:48:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:48:54] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:48:54] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:49:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:49:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:49:56] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:49:56] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:50:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:50:30] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Aug/2017 23:50:30] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:32:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:32:39] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:32:39] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:33:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:33:01] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:33:01] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:34:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:34:21] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:34:21] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:35:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:35:47] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:35:47] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:36:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:36:36] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:36:36] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:36:36] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:37:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:37:19] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:37:19] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:37:20] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:38:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:38:28] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2017 21:38:28] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:20:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:20:34] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:20:34] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:21:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:21:31] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:21:31] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:22:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:22:13] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:22:14] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:26:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:26:57] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:26:57] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:29:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:29:06] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:29:06] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:32:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:32:56] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:32:56] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:33:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:33:53] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:33:53] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:06] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:06] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:22] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:34:22] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:41:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:41:51] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:41:51] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:42] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:42] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:56] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:42:56] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:07] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:07] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:31] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:44:31] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:45:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:45:40] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:45:40] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:20] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:20] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:34] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:35] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:52] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:46:52] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:47:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:48:00] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:48:00] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:48:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:48:15] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:48:15] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:53:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:53:12] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:53:12] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:53:18] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:56:31] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:56:31] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:56:31] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug: * Detected change in '/home/kquinn/work/text/app/config.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:59:42] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:59:43] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 22:59:43] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:03] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:03] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:03] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:15] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:15] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:00:15] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:01:19] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:01:19] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:01:19] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:02:23] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:02:23] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:02:23] "GET /static/main.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:02:49] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:02:49] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:03:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:03:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:03:06] "GET /Information.html HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:03:51] "GET /Information.html HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:04:15] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:04:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:04:32] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:05:39] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:05:39] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:05:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:05:44] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:05:47] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:07:25] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:07:25] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:07:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:11:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:11:29] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:11:29] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:12:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:12:51] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Aug/2017 23:12:51] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:38] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:38] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:54] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:13:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 986-301-151
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:18:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:18:57] "GET /static/main.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Aug/2017 22:19:24] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2017 19:51:52] "GET /Information HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2017 19:51:52] "GET /static/main.css HTTP/1.1" 200 -

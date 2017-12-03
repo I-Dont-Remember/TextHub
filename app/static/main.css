@@ -1,0 +1,15 @@
+/* Large important elements and media */
+body { padding-top: 50px; }
+
+@media screen and (max-width: 768px) {
+}
+
+li button {
+  margin-top: 8px;
+  margin-right: 4px;
+}
+
+.form-control {
+  max-width: 300px;
+  margin: 0 auto;
+}

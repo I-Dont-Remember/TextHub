@@ -4,13 +4,13 @@
 ```text
 sms2sheets/  
   app\  
-    client.json  
     config.py  
     main.py  
     sheets.py    
 
   .gitignore  
   Dockerfile  
+  client.json   
   requirements.txt  
   README   
   venv\  
